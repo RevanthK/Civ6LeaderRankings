@@ -1,6 +1,6 @@
 # Civ6LeaderRankings
 
-I used excel to play around with the data/weights. I then exported it to a CSV. I created a simple python script that creates radar charts for each Civ.
+This is a data visualization to show the strenths of characters from game (Civ6). Data was collected from a Reddit community I used excel to play around with the data/weights and then exported it to a CSV. I created a simple python script that creates radar charts for each Civ.
 
 
 Result:
